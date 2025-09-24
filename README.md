@@ -25,9 +25,13 @@ Este projeto tem como objetivo praticar o **controle de fluxo** em Java, utiliza
 ## Estrutura do Projeto
 DesafioControleFluxo/
 │
+
 ├─ src/
+
 │ ├─ Contador.java # Classe principal com o método main e lógica de contagem
+
 │ └─ exception/
+
 │ └─ ParametrosInvalidosException.java # Exceção personalizada
 
 ## Tecnologias Utilizadas
