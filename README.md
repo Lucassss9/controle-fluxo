@@ -23,7 +23,7 @@ Este projeto tem como objetivo praticar o **controle de fluxo** em Java, utiliza
 ---
 
 ## Estrutura do Projeto
-DesafioControleFluxo/
+ControleFluxo/
 
 │
 
